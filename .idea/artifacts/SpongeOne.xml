@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpongeOne">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpongeOne</output-path>
+    <root id="archive" name="SpongeOne.jar">
+      <element id="module-output" name="SpongeOne" />
+    </root>
+  </artifact>
+</component>
